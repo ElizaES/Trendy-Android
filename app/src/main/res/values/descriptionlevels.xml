@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="levelone">Find the clothes that are relevant and trendy among the proposed options.You need to score 6 points to complete the level.For each correct answer, you move one step forward, for the wrong one, one step back. </string>
+    <string name="leveloneEnd">"Congratulations, you have passed the level!"</string>
+</resources>
