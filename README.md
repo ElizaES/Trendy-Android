@@ -15,7 +15,7 @@
 ### Strona główna aplikacji 
 #### Aby rozpocząć grę, musisz nacisnąć „START”
 
-«`{xml}<пробел>{<Button
+«`{xml} {<Button
             android:id="@+id/buttonStart"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
