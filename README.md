@@ -23,13 +23,19 @@
 
 
 ### Strona z poziomami
-#### Zaimplementowaliśmy poziom 1 gry, więc na tej stronie są dwie opcje:
+#### Zaimplementowaliśmy poziom 1 gry
+
+![alt text](png/2.png)
+
+
+
+##### Na tej stronie są dwie opcje:
  
 * przycisk "1" - aby rozpocząć grę
 * Back - aby powrócić do menu głównego
 
 
-![alt text](png/2.png)
+
 ![alt text](png/9.png)
 
 
