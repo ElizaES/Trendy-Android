@@ -1,5 +1,5 @@
 # Trendy
-! Projekt znajduje się w master branche
+❗ Projekt znajduje się w master branche
 
 ### Aplikacja na Androida
 > Gra mobilna, która jest grą trendów i antitrendów, w której na każdym poziomie możesz w zabawny sposób sprawdzić swoją wiedzę na temat modnych ubrań. 
