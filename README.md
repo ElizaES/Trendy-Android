@@ -18,6 +18,10 @@
 
 ![alt text](png/1.png)
 
+
+
+
+
 ### Strona z poziomami
 #### Zaimplementowaliśmy poziom 1 gry, więc na tej stronie są dwie opcje:
  
@@ -26,6 +30,9 @@
 
 
 ![alt text](png/2.png)
+![alt text](png/9.png)
+
+
 
 
 
@@ -40,25 +47,19 @@
 ![alt text](png/3.png)
 
 
+
+
+
+
 ### Gra Trendy
+
 #### W aplikacji zdjęcia są generowane i wyświetlane losowo, jeden z modnym strojem, drugi z nieaktualnym
 
 ##### Opcje na tej stronie:
 * wybrać i kliknąć na jedno ze zdjęć
 * Back - aby powrócić do menu głównego
 
-##### Przykłady losowych wyświetleń:
 
-![alt text](png/4.png)
-![alt text](png/4.1.png)
-
-
-## Gra Trendy
-#### W aplikacji zdjęcia są generowane i wyświetlane losowo, jeden z modnym strojem, drugi z nieaktualnym
-
-##### Opcje na tej stronie:
-* wybrać i kliknąć na jedno ze zdjęć
-* Back - aby powrócić do menu głównego
 
 ##### Przykłady losowych wyświetleń:
 
@@ -68,12 +69,32 @@
 
 
 
-## * jeśli odpowiesz poprawnie - pojawi się zielony znacznik wyboru i pójdziesz o krok do przodu
+#### ✔ jeśli odpowiesz poprawnie - pojawi się zielony znacznik wyboru i przejdziesz o krok do przodu
 
-## * jeśli odpowiesz niepoprawnie - zostanie wyświetlony czarny krzyżyk i pójdziesz o krok do tyłu
+#### ✖ jeśli odpowiesz niepoprawnie - zostanie wyświetlony czarny krzyżyk i przejdziesz o krok do tyłu
 
 ![alt text](png/6.png)
 ![alt text](png/5.png)
+
+
+### Poziomy gry
+
+![alt text](png/8.png)
+
+
+
+### Okiekno z zasadami gry
+#### Po osiągnięciu ostatniego poziomu pojawia się okienko z gratulacjami
+
+
+##### Są dwie opcje:
+* przycisk "✖" - w celu zamknięcia
+* Continue - aby przejść dalej
+
+![alt text](png/7.png)
+
+
+
 
 
 
