@@ -25,7 +25,7 @@
 
 
 ### Strona z poziomami
-#### Zaimplementowaliśmy poziom 1 gry
+#### Zaimplementowałyśmy poziom 1 gry
 
 ![alt text](png/2.png)
 
